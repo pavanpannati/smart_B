@@ -1,4 +1,4 @@
-###For running Frontend:
+### For running Frontend:
 ```
 cd frontend
 npm install 
@@ -6,7 +6,7 @@ npm run dev
 ```
 
 
-###For running Backend:
+### For running Backend:
 ```
 cd backend
 pip install -r requirements.txt
